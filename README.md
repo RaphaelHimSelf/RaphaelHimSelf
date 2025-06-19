@@ -13,7 +13,7 @@ I'm Raphael, and I'm passionate about programming. I love reverse engineering an
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
 </a>
 
-![Discord Logo](https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo_2015.png)
+[![Discord](https://skillicons.dev/icons?i=discord)]([https://skillicons.dev](https://discord.com/users/1347913550219317379))
 
 <a href="https://discord.com/users/1347913550219317379" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo_2015.png" alt="Discord" width="40"/>
