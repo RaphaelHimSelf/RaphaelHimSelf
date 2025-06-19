@@ -7,4 +7,6 @@ I'm Raphael, and I'm passionate about programming. I love reverse engineering an
 
 ## My social networks :
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelhimself_/)
+<a href="https://www.instagram.com/raphaelhimself_/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
+</a>
