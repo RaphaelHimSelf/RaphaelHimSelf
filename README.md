@@ -14,7 +14,7 @@ I'm Raphael, and I'm passionate about programming. I love reverse engineering an
 
 ## Stuff I use
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,vim,linux,windows)](https://skillicons.dev)
 
 ## My social networks :
 
