@@ -14,7 +14,7 @@ I'm Raphael, and I'm passionate about programming. I love reverse engineering an
 </a>
 
 <a href="https://discord.com/users/1347913550219317379" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Discord_logo_2015.png" alt="Discord" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo_2015.png" alt="Discord" width="40"/>
 </a>
 
 ## My Skills
