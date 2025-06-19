@@ -10,11 +10,11 @@
 I'm Raphael, and I'm passionate about programming. I love reverse engineering and low-level programming. My goal is to work in cybersecurity.
 
 ## My programming language
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,vscode,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py)](https://skillicons.dev)
 
 ## Stuff I use
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,linux,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode,visualstudio,linux,windows)](https://skillicons.dev)
 
 ## My social networks :
 
