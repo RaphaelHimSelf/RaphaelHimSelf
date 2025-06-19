@@ -1,3 +1,6 @@
+[Instagram]: https://instagram.com/raphaelhimself_
+[discord]: https://discord.com/users/1347913550219317379
+
 ![banner](./Space.gif)
 
 # 💫 I'm Raphael
@@ -13,7 +16,8 @@ I'm Raphael, and I'm passionate about programming. I love reverse engineering an
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"/>
 </a>
 
-[![Discord](https://skillicons.dev/icons?i=discord)]([https://discord.gg/ton-invitation](https://discord.com/users/1347913550219317379))
+[![Social](https://skillicons.dev/icons?i=instagram)][Instagram]
+[![Social](https://skillicons.dev/icons?i=discord)][discord]
 
 
 ## My Skills
